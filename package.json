@@ -1,0 +1,17 @@
+{
+  "name": "osgi-xmljson-converter",
+  "version": "1.0.0",
+  "description": "Converts OSGI xml files into json files",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^4.4.4"
+  },
+  "devDependencies": {
+    "xml2json": "^0.12.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dries Vanbilloen",
+  "license": "ISC"
+}
